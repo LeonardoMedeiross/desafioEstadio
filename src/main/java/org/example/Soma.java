@@ -1,3 +1,5 @@
+package org.example;
+
 public class Soma {public static void main(String[] args) {
     int INDICE = 13;
     int SOMA = 0;
